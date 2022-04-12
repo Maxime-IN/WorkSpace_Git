@@ -1,0 +1,163 @@
+body {
+	color:#464843;
+}
+
+/* FOND HAUT */
+.masthead {
+    background: url(../img/fond.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.bg-light {
+    background-color: #fff1c1!important;
+}
+
+footer {
+	 background-color: #fff1c1!important;
+}
+
+.message_fond {
+    background-color: #2e3d50;
+    opacity: 0.85;
+    border-radius: 15px 15px;
+    display: inline-block;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+/* POLICE */
+.lead {
+	color:#464843;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+#sidebar-wrapper {
+	background: #464843;
+}
+
+.sidebar-nav li.sidebar-nav-item a {
+    color: #fce688;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    color: #fce688;
+}
+
+.mb-1 {
+	color:#464843;
+}
+
+.rouge {
+	color:#464843;
+}
+
+.rougefond {
+	background-color:#002B4E;
+	color:#464843;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #464843 !important;
+  color: #BBC2C2 !important;
+}
+
+
+
+.mb-6 {
+	color:#00000;
+}
+
+.menu-toggle {
+	color:#fce688;
+    background-color:#464843;
+}
+
+.btn-primary {
+    background-color: #464843!important;
+    border-color: #464843!important;
+    font-style: italic;
+    color: #fce688!important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 200;
+}
+
+.h3, h3 {
+    font-size: 2.8rem;
+}
+
+.h5, h5 {
+    font-size: 1.50rem;
+}
+
+/* TITRE DES PARTIES */
+.h2, h2 {
+	color:#464843;
+}
+
+.h4, h4 {
+	color:#464843;
+}
+
+
+
+.mb-5, .my-5 {
+margin-bottom: 1rem!important;
+}
+
+.mb-6, .my-6 {
+margin-bottom: 3rem!important;
+}
+
+.img_haut {
+margin-bottom: 1.4rem!important;
+width:400px;
+}
+
+.service-icon {
+    background-color: #545750;
+    color: #545750;
+	line-height: 6.8rem;
+}
+
+.text-faded {
+    color: #545750;
+	font-size: 1.25rem;
+    font-weight: 300;
+}
+
+
+.content-section {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+}
+
+.message_fond2 {
+    text-align: center;
+    background-color: #d9dadc;
+    opacity: 0.85;
+    border-radius: 15px 15px;
+    display: inline-block;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.img-accueil {
+	padding-left: 35px;
+    padding-right: 35px;
+}
+
+.btn-secondary {
+    background-color: #bf802d !important;
+    border-color: #bf802d !important;
+    color: #fff !important;
+}
+
+.btn-secondary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #bf802d !important;
+  color: #fff !important;
+}
